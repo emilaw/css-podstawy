@@ -7,7 +7,7 @@ body {
     width: 550px;
     height: 100px;
 
-    position: relative;
+    position: ;
     top: 40px;
     left: 30px;
 }
@@ -26,5 +26,18 @@ body {
     height: 150px;
 
     position: fixed;
-    top: 90px;
+    top: 190px;
+}
+
+#pierwszy-prim {
+    background-color: yellow;
+    margin: 5px;
+}
+
+#pierwszy-absolutny {
+    background-color: violet;
+    margin: 5px;
+    position: absolute;
+    left: 10px;
+    top: 50px;
 }
