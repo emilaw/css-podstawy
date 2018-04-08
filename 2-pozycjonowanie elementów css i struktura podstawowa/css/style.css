@@ -6,11 +6,22 @@ body {
     background-color: blue;
     width: 600px;
     height: 100px;
-    margin-bottom: 10px;
+
+    position: absolute;
+    top: 40px;
+    left: 30px;
 }
 
 #drugi {
     background-color: aquamarine;
+
+    top: 10px;
     width: 600px;
     height: 100px;
+}
+
+#trzeci {
+    background-color: yellow;
+    width: 150px;
+    height: 400px;
 }
