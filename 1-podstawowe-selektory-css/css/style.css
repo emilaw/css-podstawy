@@ -1,0 +1,13 @@
+p {
+    color: blue;
+}
+
+#paragraf {
+    color: fuchsia;
+}
+
+a,
+span,
+div {
+    background-color: darkgray;
+}
