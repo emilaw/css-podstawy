@@ -15,3 +15,19 @@ div {
 li > a {
     background-color: aquamarine;
 }
+
+ul a {
+    background-color: blueviolet;
+}
+
+h1 ~ p {
+    color: chartreuse;
+}
+
+ul#lista > li:not(.last) {
+    background-color: darksalmon;
+}
+
+ul#lista > li:nth-child(3) {
+    background-color: red;
+}
