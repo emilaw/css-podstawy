@@ -11,3 +11,7 @@ span,
 div {
     background-color: darkgray;
 }
+
+li > a {
+    background-color: aquamarine;
+}
