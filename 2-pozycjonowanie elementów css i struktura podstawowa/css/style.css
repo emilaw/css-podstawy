@@ -4,10 +4,10 @@ body {
 
 #pierwszy {
     background-color: blue;
-    width: 600px;
+    width: 550px;
     height: 100px;
 
-    position: absolute;
+    position: relative;
     top: 40px;
     left: 30px;
 }
@@ -23,5 +23,8 @@ body {
 #trzeci {
     background-color: yellow;
     width: 150px;
-    height: 400px;
+    height: 150px;
+
+    position: fixed;
+    top: 90px;
 }
